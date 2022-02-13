@@ -15,4 +15,4 @@ The confusion matrix show very good results for the different classes:
 ![86C99271-4375-46FD-8DAD-F179373F2F76_1_201_a](https://user-images.githubusercontent.com/51881832/153748973-4ef39650-97b8-4029-84a0-0b323d3380a6.jpeg)
 
 # Conclusions
-From the confusion matrix it can be shown that the results are pretty good with ~95% average accuracy. The worst result was when predicting gray leaf spot as predicted since it has smaller data in compare to the others, yet it's still not bad with 91% in accuracy.
+From the confusion matrix it can be shown that the results are pretty good with ~95% average accuracy. It can be used to detect diseases as early as possible.
